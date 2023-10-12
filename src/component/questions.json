@@ -1,0 +1,53 @@
+{
+    "questions": [
+      {
+        "title": "What is the capital of France?",
+        "answers": [
+          { "answer": "Paris", "correct": true },
+          { "answer": "Madrid" },
+          { "answer": "Berlin" },
+          { "answer": "Rome" }
+        ],
+        "helper": {
+          "text": "Hint: Think of the Eiffel Tower!"
+        }
+      },
+      {
+        "title": "Which planet is known as the Red Planet?",
+        "answers": [
+          { "answer": "Mars", "correct": true },
+          { "answer": "Venus" },
+          { "answer": "Jupiter" },
+          { "answer": "Saturn" }
+        ],
+        "helper": {
+          "text": "Hint: It's the fourth planet from the Sun."
+        }
+      },
+      {
+        "title": "What is the largest mammal on Earth?",
+        "answers": [
+          { "answer": "Elephant" },
+          { "answer": "Giraffe" },
+          { "answer": "Whale Shark" },
+          { "answer": "Blue Whale", "correct": true }
+        ],
+        "helper": {
+          "text": "Hint: It's the biggest animal in the ocean."
+        }
+      },
+      {
+        "title": "Who wrote 'Romeo and Juliet'?",
+        "answers": [
+          { "answer": "Charles Dickens" },
+          { "answer": "Jane Austen" },
+          { "answer": "William Shakespeare", "correct": true },
+          { "answer": "F. Scott Fitzgerald" }
+        ],
+        "helper": {
+          "text": "Hint: He's known for his plays and sonnets."
+        }
+      }
+    ]
+  }
+  
